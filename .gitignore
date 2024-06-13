@@ -20,3 +20,4 @@ docs
 deploy.sh
 .DS_Store
 .idea
+_book
